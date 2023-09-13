@@ -8,10 +8,9 @@ const pdfadd={
         type: 'file',
         title: 'PDF File',
         options: {
-          accept: '.pdf', // Specify that only PDF files are allowed
+          accept: '.pdf',
         },
       },
-      // Other fields for your web page content
     ],
   };
 
